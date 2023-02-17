@@ -1,0 +1,37 @@
+class class1TEST {
+
+@beroreEach ()
+
+@AfterEach()
+
+fct1TEST1 {
+inst1 ;
+inst2;
+inst3;// release
+inst4;// release
+}
+
+fct2TEST1 {
+inst1 ;
+inst2;
+inst3;
+inst4;// release
+}
+
+fct3TEST1 {
+inst1 ;
+inst2;
+inst3;
+}
+fct4TEST1 {
+inst1 ;
+inst2;
+inst3;
+}
+//release
+fct5TEST1 {
+inst1 ;
+inst2;
+inst3;
+}
+}
