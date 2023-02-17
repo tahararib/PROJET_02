@@ -12,4 +12,10 @@ inst1 ;
 inst2;
 inst3;
 }
+
+fct3 {
+inst1 ;
+inst2;
+inst3;
+}
 }
