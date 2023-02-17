@@ -5,6 +5,7 @@ public class3() {}
 fct1 {
 inst1 ;
 inst2;
+inst3;//release
 }
 
 fct2 {
