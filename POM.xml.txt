@@ -1,5 +1,5 @@
-build + deploy
-<scope>prod</scope>
+build + test
+<scope>test</scope>
 <plugin>...</plugin>
 <version> ...</version>
 <lib>...</lib>
