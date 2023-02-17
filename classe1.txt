@@ -6,12 +6,14 @@ fct1 {
 inst1 ;
 inst2;
 inst3;// release
+inst4;// release
 }
 
 fct2 {
 inst1 ;
 inst2;
 inst3;
+inst4;// release
 }
 
 fct3 {
