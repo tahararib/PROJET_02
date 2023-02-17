@@ -9,8 +9,7 @@ public class1() {}
 fct2 {
 inst1 ... ;//test
 inst2  ;
-inst3;
-inst4;// release
+//suppr ins3 master
 }
 
 fct3 {
