@@ -1,7 +1,7 @@
 class class1 {
 /**
 * comment release2
-*/
+*/     ---
 public class1() {}
 
 // suppr f1 
