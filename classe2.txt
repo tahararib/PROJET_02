@@ -1,0 +1,10 @@
+class class2 {
+
+public class2() {}
+
+fct1 {
+inst1 ;
+inst2;
+inst3;
+}
+}
