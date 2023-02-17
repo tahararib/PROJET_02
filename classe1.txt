@@ -1,13 +1,10 @@
 class class1 {
-
+/**
+* comment
+*/
 public class1() {}
 
-fct1 {
-inst1 ...;//test
-inst2 ...;//test
-inst3 ... ;// release  //test
-inst4 ;// release
-}
+// suppr f1 
 
 fct2 {
 inst1 ... ;//test
@@ -26,10 +23,6 @@ inst1 ;
 inst2;
 inst3;
 }
-//release
-fct5 {
-inst1 ;
-inst2;
-inst3;
+// suppr f5
 }
 }
