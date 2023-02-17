@@ -6,6 +6,10 @@ public class1() {}
 
 // suppr f1 
 
+fct11 {
+inst1 ... ;//release2
+}
+
 fct2 {
 inst1 ... ;//test
 inst2  ;
